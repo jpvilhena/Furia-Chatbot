@@ -1,0 +1,47 @@
+{
+    "next_match": {
+      "teams": "FURIA vs G2 Esports",
+      "date": "2025-05-03"
+    },
+    "last_game": {
+      "date": "2025-04-30",
+      "opponent": "Team Liquid",
+      "score": "2:1"
+    },
+    "players": {
+      "arT": {
+        "maps_played": 40,
+        "rating": 1.12
+      },
+      "Neto": {
+        "maps_played": 38,
+        "rating": 1.15
+      },
+      "KSCERATO": {
+        "maps_played": 42,
+        "rating": 1.10
+      },
+      "yuurih": {
+        "maps_played": 35,
+        "rating": 1.08
+      },
+      "VINI": {
+        "maps_played": 30,
+        "rating": 1.05
+      }
+    },
+    "roster": [
+      "molodoy",
+      "FalleN",
+      "KSCERATO",
+      "yuurih",
+      "sidde",
+      "YEKINDAR"
+    ],
+    "news": [
+      "🚨 FURIA assina novo coach para a temporada 2025.",
+      "🎉 KSCERATO atinge 1000 eliminações na carreira CS:GO.",
+      "🏅 FURIA avança à semifinal do BLAST Premier Spring Showdown."
+    ]
+  }
+  

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+spacy
+joblib
+python-dotenv
+httpx
+beautifulsoup4
+lxml
+feedparser
+pydantic
+starlette
